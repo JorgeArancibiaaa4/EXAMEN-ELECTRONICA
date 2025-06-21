@@ -29,5 +29,52 @@ void loop() {
   delay(300); // Tiempo entre movimientos (puedes ajustarlo para más velocidad)
 }
 ```
+```
+CABEZA Y "HOMBRO"
+```
+```
+#include <Servo.h>
 
+Servo servoA;  // Servo en pin 10 (antes estaba en 9, se mueve entre 0 y 100 grados con pausa)
+Servo servoB;  // Servo en pin 11 (antes estaba en 10, se mueve entre 0 y 180 grados con más pausa)
+
+int angleA = 0;
+int angleB = 90;
+
+unsigned long lastMoveA = 0;
+unsigned long lastMoveB = 0;
+
+unsigned long delayA = 1000;             // 1 segundo de pausa entre movimientos para servoA
+unsigned long delayB = 3000 + random(0, 1001); // Entre 3 y 4 segundos para servoB
+
+void setup() {
+  servoA.attach(10); // Ahora está en el pin 10
+  servoB.attach(11); // Ahora está en el pin 11
+
+  servoA.write(angleA);
+  servoB.write(angleB);
+
+  randomSeed(analogRead(A0)); // Semilla aleatoria
+}
+
+void loop() {
+  unsigned long currentMillis = millis();
+
+  // Movimiento servoA (ahora en pin 10) entre 0 y 100 grados con pausa
+  if (currentMillis - lastMoveA >= delayA) {
+    angleA = random(0, 101); // ángulo entre 0 y 100
+    servoA.write(angleA);
+    lastMoveA = currentMillis;
+  }
+
+  // Movimiento servoB (ahora en pin 11) entre 0 y 180 grados con pausa de 3-4 segundos
+  if (currentMillis - lastMoveB >= delayB) {
+    angleB = random(0, 181); // ángulo entre 0 y 180
+    servoB.write(angleB);
+    lastMoveB = currentMillis;
+    delayB = 3000 + random(0, 1001); // Nueva pausa aleatoria entre 3000 y 4000 ms
+  }
+}
+
+```
 ##
