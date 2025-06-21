@@ -1,6 +1,9 @@
 # EXAMEN-ELECTRONICA
 PROYECTO DE LA OBRA FINAL
 ```
+brazo, articulacion "codo"
+```
+```
 #include <Servo.h>
 
 Servo servo;
