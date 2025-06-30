@@ -27,6 +27,10 @@ Se encuentra suspendido por tres alambres, sujetos a dos tornillos ubicados cerc
 
 
 
+# Diagrama:  
+<img src="https://github.com/user-attachments/assets/71f1c31b-7ff7-4aab-9b8b-125921019d7c" width="300" />  
+<img src="https://github.com/user-attachments/assets/284f7fa6-675b-4384-ae82-315d01759506" width="300" />
+
 
 
 
