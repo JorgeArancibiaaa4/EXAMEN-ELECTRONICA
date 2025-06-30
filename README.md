@@ -1,3 +1,20 @@
+# EXAMEN-ELECTRONICA
+PROYECTO DE LA OBRA FINAL
+
+## descripcion conceptual del proyecto
+
+Intento hablar de alguna manera sobre un agotamiento, el movimiento constante sin algun proposito. No es un sentimiento universal y quiero aclarar que no hablo por todas y todos al escribir "movimiento constante sin proposito". El utilizar carton y alambres como material principal se puede volver graciosa la puesta en escena, saliendose del area industrial y limpio que suele tener la imagen de un robot. Asi como un intento de algo, un querer hacer, con lo que se puede. No es un objeto util, pero en lo erratico de sus movimientos busca busca "pertenecer". Busca su forma.  
+
+## aggg
+
+El proyecto consta de un cuerpo humanizado, el cual puede mover su brazo y cabeza con servomotores. Y estos controlados por arduinos.
+
+Se encuentra suspendido por tres alambres, sujetos a dos tornillos ubicados cerca de una ventana.
+
+
+#  imagenes;
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4ef365b7-a328-475b-aa23-ce3df5a0b334" width="300">
   <img src="https://github.com/user-attachments/assets/08b119ee-9fcb-447a-ae26-eb5e8b8595ab" width="300">
@@ -10,12 +27,7 @@
 
 
 
-# EXAMEN-ELECTRONICA
-PROYECTO DE LA OBRA FINAL
 
-## descripcion conceptual del proyecto
-
-Intento hablar de alguna manera sobre un agotamiento, el movimiento constante sin algun proposito. No es un sentimiento universal y quiero aclarar que no hablo por todas y todos al escribir "movimiento constante sin proposito". El utilizar carton y alambres como material principal se puede volver graciosa la puesta en escena, saliendose del area industrial y limpio que suele tener la imagen de un robot. Asi como un intento de algo, un querer hacer, con lo que se puede. No es un objeto util, pero en lo erratico de sus movimientos busca busca "pertenecer". Busca su forma.  
 ```
 brazo, articulacion "codo"
 ```
