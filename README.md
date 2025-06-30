@@ -3,9 +3,8 @@ PROYECTO DE LA OBRA FINAL
 
 ## descripcion conceptual del proyecto
 
-Intento hablar, de alguna manera, sobre un tipo de agotamiento: el movimiento constante sin un proposito claro. 
-
-No es un sentimiento universal, y quiero aclarar que no hablo por todas y todos al usar esa expresion. El uso de carton y alambres como materiales principales puede dar lugar a una escena casi comica. Es un intento de algo, un querer hacer con lo que se tiene. No es un objeto util, no responde a un proposito tecnico o practico. Con sus movimientos erraticos se busco otro tipo de proposito: una "urgencia" de presencia.
+Siempre me han interesado los robots, pero no los que son perfectos o pulidos. Me atraen más los que están hechos con materiales humildes, con cierta torpeza, sin buscar ser elegantes. Cuando la tecnología se junta con materiales cotidianos aparece cierto "caracter" del material. 
+Desde ahí empiezo a pensar en un tipo de agotamiento: ese moverse sin saber bien para qué. El movimiento constante, sin dirección clara. Me interesa esa presencia que nace desde la falla, desde lo desprolijo, erratico. Como si el movimiento fuera un "acá estoy".
 
 ## Descripcion tecnica
 
