@@ -12,6 +12,9 @@
 
 # EXAMEN-ELECTRONICA
 PROYECTO DE LA OBRA FINAL
+##descripcion conceptual del proyecto
+
+Intento hablar de alguna manera sobre un agotamiento, el movimiento constante sin algun proposito. No es un sentimiento universal y quiero aclarar que no hablo por todas y todos al escribir "movimiento constante sin proposito". El utilizar carton y alambres como material principal se puede volver graciosa la puesta en escena, saliendose del area industrial y limpio que suele tener la imagen de un robot. Asi como un intento de algo, un querer hacer, con lo que se puede. No es un objeto util, pero en lo erratico de sus movimientos busca busca "pertenecer". Busca su forma.  
 ```
 brazo, articulacion "codo"
 ```
