@@ -5,9 +5,9 @@ PROYECTO DE LA OBRA FINAL
 
 Intento hablar, de alguna manera, sobre un tipo de agotamiento: el movimiento constante sin un proposito claro. 
 
-No es un sentimiento universal, y quiero aclarar que no hablo por todas y todos al usar esa expresion. El uso de carton y alambres como materiales principales puede dar lugar a una escena casi comica. Es un intento de algo, un querer hacer con lo que se tiene. No es un objeto util, pero en lo erratico de sus movimientos hay una busqueda. Quiere pertenecer. Busca su forma.
+No es un sentimiento universal, y quiero aclarar que no hablo por todas y todos al usar esa expresion. El uso de carton y alambres como materiales principales puede dar lugar a una escena casi comica. Es un intento de algo, un querer hacer con lo que se tiene. No es un objeto util, no responde a un proposito tecnico o practico. Con sus movimientos erraticos se busco otro tipo de proposito: una "urgencia" de presencia.
 
-## aggg
+## Descripcion tecnica
 
 El proyecto consta de un cuerpo humanizado, el cual puede mover su brazo y cabeza con servomotores. Y estos controlados por arduinos.
 
