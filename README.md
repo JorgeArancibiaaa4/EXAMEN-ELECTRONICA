@@ -1,7 +1,7 @@
 # EXAMEN-ELECTRONICA
 PROYECTO DE LA OBRA FINAL
 
-## descripcion conceptual del proyecto
+## Descripcion conceptual del proyecto
 
 Siempre me han interesado los robots, pero no los que son perfectos o pulidos. Me atraen más los que están hechos con materiales humildes, con cierta torpeza, sin buscar ser elegantes. Cuando la tecnología se junta con materiales cotidianos aparece cierto "caracter" del material. 
 Desde ahí empiezo a pensar en un tipo de agotamiento: ese moverse sin saber bien para qué. El movimiento constante, sin dirección clara. Me interesa esa presencia que nace desde la falla, desde lo desprolijo, erratico. Como si el movimiento fuera un "acá estoy".
@@ -13,7 +13,9 @@ El proyecto consta de un cuerpo humanizado, el cual puede mover su brazo y cabez
 Se encuentra suspendido por tres alambres, sujetos a dos tornillos ubicados cerca de una ventana.
 
 
-#  imagenes;
+#  Imagenes;
+
+#### Estas son las imagenes del proceso de creacion.
 
 
 <p align="center">
